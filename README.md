@@ -23,3 +23,12 @@ TOEFL
 | shingle | 屋顶板，墙板 |
 | chopping | 砍 |
 | saw | 锯 |
+| scrap | 废料 |
+| standard issue | 标配 |
+| mill | 磨坊，磨 |
+| pond | 池 |
+| neutralize | 使中立 |
+| sleds | 滑板 |
+| sleigh | 雪橇 |
+| bank | 岸，河畔 |
+| thawed | 解冻 |
