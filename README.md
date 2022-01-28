@@ -36,6 +36,7 @@ TOEFL
 
 ### passage 2
 | EN | CN |
+| :------------ |:---------------|
 | megafauna | 巨型生物 |
 | mammoth | 猛犸 |
 | propose | 建议，提议，打算，请求 |
