@@ -1,6 +1,7 @@
 # xxx
 TOEFL
-## page54
+## Official 54
+### passage 1
 | EN | CH  |
 | :------------ |:---------------|
 | practically | 几乎 |
@@ -32,3 +33,22 @@ TOEFL
 | sleigh | 雪橇 |
 | bank | 岸，河畔 |
 | thawed | 解冻 |
+
+### passage 2
+| EN | CN |
+| megafauna | 巨型生物 |
+| mammoth | 猛犸 |
+| propose | 建议，提议，打算，请求 |
+| migrate | 迁移，迁徙 |
+| distinctive | 独特的，易于区分的 |
+| spear | 矛 |
+| continent | 大陆 |
+| hypothesis | 假设，猜测 |
+| be capable of | 有能力 |
+| drastic | 剧烈的， 猛烈的 |
+| genera | 种类，属 |
+| throughout | 全部，到处，自始至终 |
+| Pleistocene | 更新世 |
+| presence | 存在 |
+| cause-and-effect | 因果 |
+| championed | 主持，主张，冠军 |
