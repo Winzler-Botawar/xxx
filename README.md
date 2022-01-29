@@ -53,3 +53,27 @@ TOEFL
 | presence | 存在 |
 | cause-and-effect | 因果 |
 | championed | 主持，主张，冠军 |
+| predation | 捕猎行为 |
+| influx | 流入，涌入 |
+| beringia | 白令海峡 |
+| wipe out | 擦去，消灭 |
+| game animal | 狩猎动物 |
+| burgeon | 迅速发展，萌发 |
+| big-game-aninmal | 大型野生动物 |
+| derived | 推论，导出，追寻起源 |
+| scenario | 方案，前景，可能发生的情况 |
+| geologist | 地质学家 |
+| dated | 年代久远的 |
+| paleontology | 古生物学 |
+| context | 语境，背景 |
+| remarkable | 非凡的，显著的 |
+| synchronicity | 同步性 |
+| paucity | 少量，贫乏 |
+| minuscule | 极小的，微小的 |
+| slaughter | 屠杀，屠宰 |
+| sparse | 稀疏的，稀少的 |
+| disprove | 反驳，推翻 |
+| moa | 恐鸟 |
+| herbivore | 食草动物 |
+| succumb | 死，屈服，抵挡不住 |
+| reinforce | 加固，加强 |
