@@ -77,3 +77,23 @@ TOEFL
 | herbivore | 食草动物 |
 | succumb | 死，屈服，抵挡不住 |
 | reinforce | 加固，加强 |
+
+### passage 3
+| EN | CN |
+| :------------ |:---------------|
+| organism | 生物，有机体 |
+| stellar | 恒星的，优秀的 |
+| mass | 质量，大量 |
+| planetesimal | 微小行星体 |
+| condense | 冷凝，凝结，压缩 |
+| inevitably | 必然，不可避免 |
+| molecule | 分子，微小颗粒 |
+| amino | 氨基的 |
+| vent | 通风口，开孔，烟囱 |
+| respectively | 分别，顺序，依次为 |
+| meteorites | 陨石，陨星 |
+| asteroid | 小行星 |
+| bombardment | 轰炸 |
+| intact | 完整，完好无损 |
+| evidently | 显然，证据确凿地 |
+| rule out | 排除，不考虑 |
