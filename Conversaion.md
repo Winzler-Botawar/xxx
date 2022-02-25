@@ -25,3 +25,20 @@ TOEFL
 | swept up | 席卷 |
 | swept | 打扫，席卷 |
 | energized | 鼓舞 |
+
+### conversation 2
+| EN | CN |
+| :---: | :---: |
+| Broadway | 百老汇 |
+| elaborate | 精美的 |
+| masses | 大众 |
+| renowned | 有名的 |
+| troop | 部队，团 |
+| lift up | 抬起来 |
+| novel | 新颖的 |
+| moonlit | 月光照耀的 |
+| throne | 王位，宝座 |
+| set | 布景，设置 |
+| premiere | 首映 |
+| loosely focused around | 并不紧密地围绕着 |
+| hint | 暗示 |
