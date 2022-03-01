@@ -13,3 +13,4 @@ review 10 days a time
 | sensation | sack |
 | sac | residual |
 | residential | reef |
+| reed | pupil |
