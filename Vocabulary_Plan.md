@@ -14,3 +14,4 @@ review 10 days a time
 | sac | residual |
 | residential | reef |
 | reed | pupil |
+| pungent | preserve |
