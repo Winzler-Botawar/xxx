@@ -16,3 +16,4 @@ review 10 days a time
 | reed | pupil |
 | pungent | preserve |
 | preservative | plow |
+| plight | pedagogic |
