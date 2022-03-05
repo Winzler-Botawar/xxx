@@ -17,4 +17,4 @@ review 10 days a time
 | pungent | preserve |
 | preservative | plow |
 | plight | pedagogic |
-| peculiarity | outgoing |
+| peculiarity | ounce |
