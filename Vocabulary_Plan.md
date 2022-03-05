@@ -18,3 +18,4 @@ review 10 days a time
 | preservative | plow |
 | plight | pedagogic |
 | peculiarity | ounce |
+| osprey | nonetheless |
