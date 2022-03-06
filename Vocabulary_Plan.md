@@ -19,3 +19,4 @@ review 10 days a time
 | plight | pedagogic |
 | peculiarity | ounce |
 | osprey | nonetheless |
+| nonconformity | mimic |
