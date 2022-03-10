@@ -20,3 +20,4 @@ review 10 days a time
 | peculiarity | ounce |
 | osprey | nonetheless |
 | nonconformity | mimic |
+| mimetic | majestic |
