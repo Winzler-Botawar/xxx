@@ -22,3 +22,4 @@ review 10 days a time
 | nonconformity | mimic |
 | mimetic | majestic |
 | maize | lawn |
+| lavish | intriguing |
