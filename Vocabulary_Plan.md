@@ -23,3 +23,4 @@ review 10 days a time
 | mimetic | majestic |
 | maize | lawn |
 | lavish | intriguing |
+| intrigue | inflict |
