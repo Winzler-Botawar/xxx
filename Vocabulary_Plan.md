@@ -26,3 +26,4 @@ review 10 days a time
 | intrigue | inflict |
 | inflexible | imagery |
 | image | heaven |
+| healthful | germ |
