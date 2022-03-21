@@ -97,3 +97,39 @@ TOEFL
 | intact | 完整，完好无损 |
 | evidently | 显然，证据确凿地 |
 | rule out | 排除，不考虑 |
+## Official 54
+### passage 1
+| EN | CN |
+| :------------ |:---------------|
+| cuneiform | 楔形的 |
+| preliterate | 不识字的 |
+| tokens | 标记，记号 |
+| wedge | 楔形物，楔子 |
+| cone | 圆锥体 |
+| disks | 圆盘状的 |
+| cylinder | 圆柱 |
+| grain | 谷物 |
+| livestock | 家畜 |
+| redundant | 多余|
+| geometric | 几何的 |
+| miniature | 微型化 |
+| garment | 服装，外套 |
+| mat | 垫子，簇 |
+| pottery | 陶制的 |
+| derived | 导出，追溯起源，推究 |
+| elite | 精英 |
+| priest | 祭司 |
+| caste | 种姓，社会等级 |
+| transaction | 处理，业务 |
+| testify | 证实 |
+| flock | 群，聚集 |
+| immensely | 巨大的，极端的 |
+| distinct | 清晰的 |
+| precede | 先于 |
+| denoting | 表示，意味着 |
+| scribal | 笔写的，手抄的 |
+| tabulator | 制表人 |
+| monotonous | 单调乏味的 |
+| tally | 记录 |
+| speculate | 推测，猜测 |
+| brainchild | 发明 |
