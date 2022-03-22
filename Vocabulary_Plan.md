@@ -27,3 +27,4 @@ review 10 days a time
 | inflexible | imagery |
 | image | heaven |
 | healthful | germ |
+| geomeagnetic | foresee |
