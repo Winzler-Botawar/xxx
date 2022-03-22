@@ -97,7 +97,8 @@ TOEFL
 | intact | 完整，完好无损 |
 | evidently | 显然，证据确凿地 |
 | rule out | 排除，不考虑 |
-## Official 54
+
+## Official 53
 ### passage 1
 | EN | CN |
 | :------------ |:---------------|
@@ -133,3 +134,25 @@ TOEFL
 | tally | 记录 |
 | speculate | 推测，猜测 |
 | brainchild | 发明 |
+
+### passage 2
+| EN | CN |
+| :------------ |:---------------|
+| leach | 浸析，过滤 |
+| dramatic | 突然的，巨大的 |
+| cation | 阳离子 |
+| moderate | 中等的 |
+| phosphorus | 磷 |
+| moisture | 水分 |
+| deleterious | 有害的 |
+| penetrate | 渗透 |
+| Cambodia | 柬埔寨 |
+| biomass | 生物量 |
+| shallow | 浅滩 |
+| mycorrhizal | 菌根菌 |
+| hyphae | 菌丝 |
+| cope with | 应对 |
+| legume | 豆科 |
+| nodule | 小瘤，小结 |
+| cyanobacteria | 蓝藻目 |
+| cycad | 铁树目 |
