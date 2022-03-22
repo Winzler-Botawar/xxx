@@ -156,3 +156,34 @@ TOEFL
 | nodule | 小瘤，小结 |
 | cyanobacteria | 蓝藻目 |
 | cycad | 铁树目 |
+
+### passage 3
+| EN | CN |
+| :------------ |:---------------|
+| paleolithic | 旧石器时代的 |
+| depict | 描述 |
+| instinctively | 本能地，自觉地 |
+| sheer | 纯粹的 |
+| trait | 特点 |
+| triumph | 战胜，打败 |
+| sake | 缘故，理由 |
+| plausibly | 合理地，貌似有理地，或许 |
+| proliferation | 增生，激增 |
+| repertoire | 全部本领 |
+| recur | 再发生，重现 |
+| incidence | 发生率 |
+| scatter | 撒，散落，四散 |
+| spectacular | 壮丽的，宏伟的 |
+| grotto | 洞穴 |
+| stout | 粗壮的，结实的 |
+| daub | 涂抹 |
+| conceive | 构想，设想 |
+| recesses | 凹陷 |
+| nook | 僻静处 |
+| cranny | 裂缝 |
+| emphasis | 强调 |
+| prey | 捕猎，掠食 |
+| strive | 奋斗，努力 |
+| diligent | 勤奋的 |
+| evocative | 唤起感情的，引起回忆的 |
+| prompt | 提示，激起 |
