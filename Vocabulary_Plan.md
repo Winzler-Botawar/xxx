@@ -28,3 +28,4 @@ review 10 days a time
 | image | heaven |
 | healthful | germ |
 | geomeagnetic | foresee |
+| forerunner | fascinating |
