@@ -29,3 +29,4 @@ review 10 days a time
 | healthful | germ |
 | geomeagnetic | foresee |
 | forerunner | fascinating |
+| fascinate | exaggeration |
