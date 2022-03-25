@@ -8,6 +8,7 @@ review 10 days a time
 | unobstructed | transcend |
 | transaction | tariff |
 | tardy | suite |
+| suit | staircase |
 | stained | snap |
 | smuggle | sensational |
 | sensation | sack |
