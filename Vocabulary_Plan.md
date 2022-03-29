@@ -31,3 +31,4 @@ review 10 days a time
 | geomeagnetic | foresee |
 | forerunner | fascinating |
 | fascinate | exaggeration |
+| exaggerate | emerging |
