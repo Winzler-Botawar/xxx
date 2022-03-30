@@ -32,3 +32,4 @@ review 10 days a time
 | forerunner | fascinating |
 | fascinate | exaggeration |
 | exaggerate | emerging |
+| emerge | doubtful |
