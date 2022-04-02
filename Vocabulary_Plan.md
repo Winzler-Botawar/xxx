@@ -33,3 +33,4 @@ review 10 days a time
 | fascinate | exaggeration |
 | exaggerate | emerging |
 | emerge | doubtful |
+| doubt | discerning |
