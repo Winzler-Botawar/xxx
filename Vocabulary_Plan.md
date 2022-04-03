@@ -1,6 +1,6 @@
 # xxx
 
-review 10 days a time
+10 days
 | From | To |
 | :---: | :---: |
 | zone | victuosity |
@@ -34,3 +34,4 @@ review 10 days a time
 | exaggerate | emerging |
 | emerge | doubtful |
 | doubt | discerning |
+| discernible | dentist |
