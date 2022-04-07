@@ -35,3 +35,4 @@
 | emerge | doubtful |
 | doubt | discerning |
 | discernible | dentist |
+| dental | culinary |
