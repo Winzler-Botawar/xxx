@@ -38,3 +38,4 @@
 | dental | culinary |
 | cue | convention |
 | convenient | confession |
+| confess | combustible |
