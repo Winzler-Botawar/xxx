@@ -39,3 +39,4 @@
 | cue | convention |
 | convenient | confession |
 | confess | combustible |
+| combine | chart |
