@@ -40,3 +40,4 @@
 | convenient | confession |
 | confess | combustible |
 | combine | chart |
+| charitable | bud |
