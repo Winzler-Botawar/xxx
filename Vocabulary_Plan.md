@@ -41,3 +41,4 @@
 | confess | combustible |
 | combine | chart |
 | charitable | bud |
+| buckle | bean |
