@@ -42,3 +42,4 @@
 | combine | chart |
 | charitable | bud |
 | buckle | bean |
+| beam | astound |
