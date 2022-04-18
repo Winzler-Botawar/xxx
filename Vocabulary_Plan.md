@@ -43,3 +43,4 @@
 | charitable | bud |
 | buckle | bean |
 | beam | astound |
+| astonishing | antiquate |
