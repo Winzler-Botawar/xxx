@@ -44,3 +44,4 @@
 | buckle | bean |
 | beam | astound |
 | astonishing | antiquate |
+| anticipation | affection |
