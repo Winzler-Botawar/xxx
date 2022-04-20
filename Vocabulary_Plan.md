@@ -45,3 +45,4 @@
 | beam | astound |
 | astonishing | antiquate |
 | anticipation | affection |
+| affected | absorb |
