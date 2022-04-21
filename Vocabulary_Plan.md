@@ -46,3 +46,4 @@
 | astonishing | antiquate |
 | anticipation | affection |
 | affected | absorb |
+| absolutely | abandon |
