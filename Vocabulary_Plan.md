@@ -8,7 +8,7 @@
 | unobstructed | transcend |
 | transaction | tariff |
 | tardy | suite |
-| suit | staircase |
+| **suit** | **staircase** |
 | stained | snap |
 | smuggle | sensational |
 | sensation | sack |
